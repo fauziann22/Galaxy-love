@@ -587,7 +587,7 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of love From ...',//untuk deskripsi planet layer 1
+  '//atiww cantikk' ...',//untuk deskripsi planet layer 1
   "I love you",//untuk deskripsi planet layer 2
   "♡Happy Girlfriend day♡",//untuk deskripsi planet layer 3
   "01/08/2025",//untuk deskripsi planet layer 4
